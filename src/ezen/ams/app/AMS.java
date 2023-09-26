@@ -8,6 +8,10 @@ import ezen.ams.domain.MemoryAccountRepository;
 import ezen.ams.domain.MinusAccount;
 import ezen.ams.exception.NotBalanceException;
 
+/**
+ * 계좌관리서비스 실행 애플리케이션
+ * @author 이희영
+ */
 public class AMS {
 
 	private static AccountRepository repository = new MemoryAccountRepository();

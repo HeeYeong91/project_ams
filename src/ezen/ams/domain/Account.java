@@ -4,6 +4,7 @@ import ezen.ams.exception.NotBalanceException;
 
 /*
  * 은행계좌 추상화
+ * @author 이희영
  */
 public class Account {
 	
@@ -15,7 +16,7 @@ public class Account {
 	
 //	스태틱(정적, 클래스)변수들...
 //	상수
-	public final static String BANK_NAME = "이젠은행";
+	public final static String BANK_NAME = "희영은행";
 	private static int accountId;
 	
 //	static 초기화 블록

@@ -2,6 +2,10 @@ package ezen.ams.domain;
 
 import ezen.ams.exception.NotBalanceException;
 
+/**
+ * 계좌 클래스를 상속받은 마이너스 계좌 클래스
+ * @author 이희영
+ */
 public class MinusAccount extends Account {
 	
 	private long borrowMoney;
