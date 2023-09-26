@@ -26,7 +26,7 @@ public class AMS {
 		repository.addAccount(new MinusAccount("유길동", 1111, 0, 11111));
 		
 		System.out.println("*************************************************************************");
-		System.out.println("****************** " + Account.BANK_NAME + "은행 계좌 관리 애플리케이션" + " ******************");
+		System.out.println("****************** " + Account.BANK_NAME + " 계좌 관리 애플리케이션" + " ******************");
 		System.out.println("*************************************************************************");
 
 		boolean run = true;
