@@ -22,7 +22,7 @@
 :books: languages : <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Openjdk&logoColor=white" /> <br />
 <br />
 
-## :pushpin: 1. 프로젝트 기능
+## :pushpin: 2. 프로젝트 기능
 ### 0. 프로그램 시작
 * boolean run = true 를 이용하여 while()문이 프로그램 종료하기 전까지 반복 실행하게 한다.
 * 프로그램 시작 시 메뉴를 화면에 보여준 뒤에 사용자로 부터 메뉴 선택 값을 입력 받는다. <br />
