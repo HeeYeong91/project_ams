@@ -176,6 +176,7 @@ public class AMS {
 						System.out.println(inputMoney + "원이 대출되었습니다.");
 						System.out.println("총 대출액은 : " + borrowMoney);
 					} else {
+						restMoney = searchAccount.getRestMoney();
 						if (restMoney >= inputMoney) {
 							searchAccount.withdraw(inputMoney);
 							restMoney = searchAccount.getRestMoney();
