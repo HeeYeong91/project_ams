@@ -34,7 +34,7 @@
 * 입출금통장 선택 시 예금주명, 비밀번호, 최초입금액을 사용자로부터 입력 받은 후 계좌를 등록한다.
 * 마이너스통장 선택 시 예금주명, 비밀번호, 대출액을 사용자로부터 입력 받은 후 계좌를 등록한다. <br />
 
-![1 계좌생성](https://github.com/HeeYeong91/project_ams1/assets/139057065/8b42bcec-d65f-4d0f-8ea9-9589ad2294b0)
+![1 계좌생성](https://github.com/HeeYeong91/project_ams1/assets/139057065/8b42bcec-d65f-4d0f-8ea9-9589ad2294b0) <br />
 [목차](#목차)
 
 ## 2. 계좌목록 조회
@@ -43,7 +43,7 @@
 * 비밀번호는 '*'로 보여준다.
 * 마이너스 통장은 대출금 표시 후 잔액에는 마이너스 금액을 보여준다. <br />
 
-![2 계좌목록](https://github.com/HeeYeong91/project_ams1/assets/139057065/989311d3-47e1-49f3-9d55-cd318a37c931)
+![2 계좌목록](https://github.com/HeeYeong91/project_ams1/assets/139057065/989311d3-47e1-49f3-9d55-cd318a37c931) <br />
 [목차](#목차)
 
 ## 3. 입금
@@ -53,7 +53,7 @@
 * 입금계좌가 입출금통장일 경우 화면에 입금액과 입금 후 잔액을 보여준다.
 * 계좌번호가 존재하지 않을 때는 "입력하신 계좌가 존재하지 않습니다" 메세지를 화면에 보여준다. <br />
 
-![3 입금](https://github.com/HeeYeong91/project_ams1/assets/139057065/96c9970d-314d-4823-afc1-93dbb7327337)
+![3 입금](https://github.com/HeeYeong91/project_ams1/assets/139057065/96c9970d-314d-4823-afc1-93dbb7327337) <br />
 [목차](#목차)
 
 ## 4. 출금
@@ -64,12 +64,12 @@
 * 입출금통장일 경우 해당 금액이 출금되었습니다. 메세지와 잔액을 보여준다.
 * 입출금통장일 경우 잔액이 부족할 경우 "계좌 잔액이 부족합니다." 메세지를 화면에 보여준다. <br />
 
-![4 출금](https://github.com/HeeYeong91/project_ams1/assets/139057065/90847e9b-3665-4edf-9699-889471e2789c)
+![4 출금](https://github.com/HeeYeong91/project_ams1/assets/139057065/90847e9b-3665-4edf-9699-889471e2789c) <br />
 [목차](#목차)
 
 ## 5. 프로그램 종료
 * 프로그램을 종료할 시 while()문으로 동작하고 있는 프로그램을 종료하기 위해
 * boolean run 값을 false로 변경한다. <br />
 
-![5 종료](https://github.com/HeeYeong91/project_ams1/assets/139057065/50f82ba1-9b84-4e24-8618-c66ac32e59c2)
+![5 종료](https://github.com/HeeYeong91/project_ams1/assets/139057065/50f82ba1-9b84-4e24-8618-c66ac32e59c2) <br />
 [목차](#목차)
