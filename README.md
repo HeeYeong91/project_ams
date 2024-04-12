@@ -20,7 +20,7 @@
 
 :calendar: 프로젝트 기간 : 2023년 5월 16일 <br />
 :hammer: Tools : <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" /> <br />
-:books: languages : <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Openjdk&logoColor=white" /> <br />
+:books: languages : <img src="https://img.shields.io/badge/Java-007396?style=style=for-the-badge&logo=Openjdk&logoColor=white" /> <br />
 <br />
 
 ## :pushpin: 2. 프로젝트 기능
